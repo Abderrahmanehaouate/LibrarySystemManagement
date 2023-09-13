@@ -1,0 +1,6 @@
+Statistical Report:
+
+Total Books: 27
+Available Books: 21 (77.78%)
+Borrowed Books: 4 (14.81%)
+Missing Books: 2 (7.41%)
